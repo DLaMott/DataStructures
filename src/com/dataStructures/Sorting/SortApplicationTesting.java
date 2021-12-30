@@ -1,12 +1,9 @@
 package com.dataStructures.Sorting;
 
-import java.lang.reflect.Array;
-import java.util.Arrays;
-
-public class BubbleSortApp {
+public class SortApplicationTesting {
 
     public static void main(String[] args){
-        BubbleSortArray array = new BubbleSortArray(10);
+        sortArray array = new sortArray(10);
 
         array.insert(12);
         array.insert(0);
@@ -22,7 +19,8 @@ public class BubbleSortApp {
         array.display();
         System.out.println("___________________");
         System.out.println("Calling bubble sort");
-        array.bubbleSort();
+        //array.bubbleSort();
+        array.selectionSort();
         array.display();
 
     }

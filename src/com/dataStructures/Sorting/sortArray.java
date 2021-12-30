@@ -1,11 +1,11 @@
 package com.dataStructures.Sorting;
 
-public class BubbleSortArray {
+public class sortArray {
 
     private long[] a;
     private int numberOfElement;
 
-    public BubbleSortArray(int max){
+    public sortArray(int max){
         a = new long[max];
         numberOfElement = 0;
     }
@@ -19,6 +19,12 @@ public class BubbleSortArray {
         for(int i = 0; i < numberOfElement; i++){
             System.out.println(a[i] + " ");
         }
+    }
+    // Swap elements in arrays by index
+    private void swap(int one, int two){
+        long temp = a[one];
+        a[one] = a[two];
+        a[two] = temp;
     }
 
     /***
@@ -38,6 +44,29 @@ public class BubbleSortArray {
                     a[in] = a[in+1];
                     a[in+1] = temp;
                 }
+            }
+        }
+    }
+
+    /***
+     * The selection sort by comparision is faster than the bubble sort. Selection sorting
+     * still holds O(N2) speed. For sorting a min counter is implementing. This minimum
+     * value is changed as a smaller element is found. The new smaller element is then pushed
+     * to the start of the array.
+     */
+    public void selectionSort(){
+
+        int min;
+        for(int outer = 0; outer < numberOfElement-1; outer++){
+            min = outer;
+            for(int inner = outer+1; inner < numberOfElement; inner++){
+                if(a[inner] < a[min]){
+                    min = inner;
+                }
+                //swap(outer, min);
+                long temp = a[outer];
+                a[outer] = a[min];
+                a[min] = temp;
             }
         }
     }
