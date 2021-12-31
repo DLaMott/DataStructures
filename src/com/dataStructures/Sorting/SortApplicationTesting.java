@@ -19,8 +19,15 @@ public class SortApplicationTesting {
         array.display();
         System.out.println("___________________");
         System.out.println("Calling bubble sort");
-        //array.bubbleSort();
+        array.bubbleSort();
+        array.display();
+        System.out.println("___________________");
+        System.out.println("Calling selection sort");
         array.selectionSort();
+        array.display();
+        System.out.println("___________________");
+        System.out.println("Calling insertion sort");
+        array.insertionSort();
         array.display();
 
     }

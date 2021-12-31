@@ -1,5 +1,7 @@
 package com.dataStructures.Sorting;
 
+import java.util.Arrays;
+
 public class sortArray {
 
     private long[] a;
@@ -68,6 +70,25 @@ public class sortArray {
                 a[outer] = a[min];
                 a[min] = temp;
             }
+        }
+    }
+
+    /***
+     * Insertion sort partially sorts an array up to a marked point. After the marked point
+     * is created the array will be compared to elements to the right of the marked point.
+     * Element will be inserted into the sorted portion of the array.
+     */
+    public void insertionSort(){
+        for(int out = 1; out < numberOfElement; out++){ //out is dividing line
+            long temp = a[out]; //remove marked item
+            int inner = out; //start shift at out
+
+            while (inner>0 && a[inner-1] >= temp){ //until one element is smaller
+                a[inner] = a[inner-1]; //shift item to the right
+                --inner; // go left one position
+            }
+            a[inner] = temp; //insert marked item
+
         }
     }
 
