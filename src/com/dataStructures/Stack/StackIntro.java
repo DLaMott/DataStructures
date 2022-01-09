@@ -2,6 +2,7 @@ package com.dataStructures.Stack;
 
 /***
  * A Stack is a data structure allowing access only to one data item( the last item inserted).
+ *  Stacks are push and popped generally in O(1) time.
  *  Storage is considered Last-In-First-Out.
  *  Pushing is the process of adding an item to the stack.
  *  Popping is removing an item from the stack.
