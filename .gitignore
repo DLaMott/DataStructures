@@ -1,2 +1,6 @@
 # Project exclude paths
 /out/
+/shelf/
+/workspace.xml
+.idea/*
+*.iml
