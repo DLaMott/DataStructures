@@ -1,6 +1,7 @@
-package com.dataStructures.Queues;
+package com.DataStructuresAndAlgorithimsBook.Chapter04Queues;
 
 public class QueueApplication {
+
 
     public static void main(String[] args){
         QueueIntro queue = new QueueIntro(5);

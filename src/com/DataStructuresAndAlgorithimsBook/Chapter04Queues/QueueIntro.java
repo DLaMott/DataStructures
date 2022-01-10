@@ -1,4 +1,4 @@
-package com.dataStructures.Queues;
+package com.DataStructuresAndAlgorithimsBook.Chapter04Queues;
 
 /***
  * Queues are a data structure offering First in First out data retrieval.

@@ -1,4 +1,4 @@
-package com.dataStructures.Stack.ReversalExample;
+package com.DataStructuresAndAlgorithimsBook.Chapter03Stacks.ReversalExample;
 
 public class Reverser {
     private String input;

@@ -1,6 +1,4 @@
-package com.dataStructures.Sorting;
-
-import java.util.Arrays;
+package com.DataStructuresAndAlgorithimsBook.Chapter02Sorting;
 
 public class sortArray {
 

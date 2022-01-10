@@ -1,4 +1,4 @@
-package com.dataStructures.Stack.ReversalExample;
+package com.DataStructuresAndAlgorithimsBook.Chapter03Stacks.ReversalExample;
 
 /***
  * This class creates a stack of chars to later reverse a given string.

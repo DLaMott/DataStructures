@@ -1,4 +1,4 @@
-package com.dataStructures.Stack;
+package com.DataStructuresAndAlgorithimsBook.Chapter03Stacks;
 
 /***
  * A Stack is a data structure allowing access only to one data item( the last item inserted).

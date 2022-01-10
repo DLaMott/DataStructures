@@ -1,4 +1,4 @@
-package com.dataStructures.Sorting;
+package com.DataStructuresAndAlgorithimsBook.Chapter02Sorting;
 
 public class SortApplicationTesting {
 

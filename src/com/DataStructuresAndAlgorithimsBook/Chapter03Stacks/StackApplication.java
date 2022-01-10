@@ -1,4 +1,4 @@
-package com.dataStructures.Stack;
+package com.DataStructuresAndAlgorithimsBook.Chapter03Stacks;
 
 /***
  * Method utilizes the {@link StackIntro} method to showcase the basic uses of a stack.

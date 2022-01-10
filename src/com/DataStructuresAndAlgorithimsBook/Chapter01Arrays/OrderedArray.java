@@ -1,4 +1,4 @@
-package com.dataStructures.Arrays;
+package com.DataStructuresAndAlgorithimsBook.Chapter01Arrays;
 
 public class OrderedArray {
     private long[] a;
