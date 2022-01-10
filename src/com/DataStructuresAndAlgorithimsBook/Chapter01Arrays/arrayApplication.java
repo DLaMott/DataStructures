@@ -1,6 +1,6 @@
 package com.DataStructuresAndAlgorithimsBook.Chapter01Arrays;
 
-public class arrayIntro {
+public class arrayApplication {
 
     public static void main(String[] args){
         // Array reference

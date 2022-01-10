@@ -1,5 +1,8 @@
 package com.DataStructuresAndAlgorithimsBook.Chapter01Arrays;
 
+/***
+ * Class serves to create arrays
+ */
 public class OrderedArray {
     private long[] a;
     private int numberOfElements;
