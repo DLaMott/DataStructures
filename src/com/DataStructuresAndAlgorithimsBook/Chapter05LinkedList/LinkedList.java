@@ -5,6 +5,7 @@ package com.DataStructuresAndAlgorithimsBook.Chapter05LinkedList;
  */
 public class LinkedList {
 
+
     private Link first;
 
     public void LinkList(){
