@@ -1,4 +1,15 @@
 ### Stack
+
+<hr>
+
+<p>
+<img src="https://github.com/GothamsJoker/DataStructures/blob/master/images/Stack.png">
+</p>
+
+<hr>
+
+
+
 A Stack is a Last In First Out (LIFO) data structure. It supports two basic operations called push and pop. 
 The push operation adds an element at the top of the stack, and the pop operation removes an element from the top of the stack.
 
