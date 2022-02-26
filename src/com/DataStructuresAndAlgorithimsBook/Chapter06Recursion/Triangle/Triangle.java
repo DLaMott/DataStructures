@@ -1,4 +1,4 @@
-package com.DataStructuresAndAlgorithimsBook.Chapter06Recursion;
+package com.DataStructuresAndAlgorithimsBook.Chapter06Recursion.Triangle;
 
 import java.io.BufferedReader;
 import java.io.IOException;
