@@ -45,7 +45,7 @@ public class anagram {
     }
 
     /***
-     * Rotates the chars within the array
+     * Rotates the chars within the array one position to the left
      * @param newSize The size of the array
      */
     public static void rotate(int newSize){
