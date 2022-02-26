@@ -22,6 +22,13 @@ If others know of any other great reads on data structures and algorithms please
 
 <hr>
 
+## A good reference sheet:
+<p>
+<img src="https://github.com/GothamsJoker/DataStructures/blob/master/images/DataStructures.png">
+</p>
+
+<hr>
+
 ## A good collection chart:
 
 <p> 
