@@ -3,7 +3,7 @@ package com.DataStructuresAndAlgorithimsBook.Chapter06Recursion.Anagram;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.nio.charset.StandardCharsets;
+
 
 /***
  * Using recursion we can easily calculate the possible anagrams for a word.
@@ -12,7 +12,6 @@ public class anagram {
 
     static int size;
     static int count;
-
     static char[] arrChar = new char[100];
 
     public static void main(String[] args) throws IOException {
@@ -27,6 +26,10 @@ public class anagram {
         doAnagram(size);
     }
 
+    /***
+     * Performs recursion on the char array
+     * @param newSize The size of the array
+     */
     public static void doAnagram(int newSize){
         if(newSize == 1){
             return;
@@ -41,6 +44,10 @@ public class anagram {
         }
     }
 
+    /***
+     * Rotates the chars within the array
+     * @param newSize The size of the array
+     */
     public static void rotate(int newSize){
         int j;
         int position = size - newSize;
@@ -72,6 +79,11 @@ public class anagram {
         }
     }
 
+    /***
+     *
+     * @return s The string undergoing anagramming
+     * @throws IOException on invalid andor null entry
+     */
     public static String getString() throws IOException {
         InputStreamReader isr = new InputStreamReader(System.in);
         BufferedReader br = new BufferedReader(isr);
