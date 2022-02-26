@@ -42,6 +42,8 @@ If others know of any other great reads on data structures and algorithms please
 - Youtube videos
 - Articles
 - Interview questions with solutions
+
+[For contributing see here](https://github.com/GothamsJoker/DataStructures-Algorithms/blob/master/CONTRIBUTING.md)
 <hr>
 
 ## To do:
