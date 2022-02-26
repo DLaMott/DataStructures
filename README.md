@@ -8,7 +8,7 @@ As the book is completed the information within this repo will grow.
 - Find the book here: [Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539/ref=asc_df_0672324539/?tag=hyprod-20&linkCode=df0&hvadid=312060980065&hvpos=&hvnetw=g&hvrand=7650009611556419964&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9009548&hvtargid=pla-435322317838&psc=1)
 
 
-If others know of any other great reads on data structures and algorithms please feel free to add or suggest them!
+If others know of any other great reads on data structures and algorithms please feel free to add or suggest them! Contributions are welcome!
 <hr>
 
 
