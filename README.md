@@ -11,6 +11,7 @@ As the book is completed the information within this repo will grow.
 If others know of any other great reads on data structures and algorithms please feel free to add or suggest them!
 <hr>
 
+
 ## Links to repos
 - [Arrays](https://github.com/GothamsJoker/DataStructures/tree/master/src/com/DataStructuresAndAlgorithimsBook/Chapter01Arrays)
 - [Sorting](https://github.com/GothamsJoker/DataStructures/tree/master/src/com/DataStructuresAndAlgorithimsBook/Chapter02Sorting)
@@ -18,6 +19,14 @@ If others know of any other great reads on data structures and algorithms please
 - [Queues](https://github.com/GothamsJoker/DataStructures/tree/master/src/com/DataStructuresAndAlgorithimsBook/Chapter04Queues)
 - [LinkedList](https://github.com/GothamsJoker/DataStructures/tree/master/src/com/DataStructuresAndAlgorithimsBook/Chapter05LinkedList)
 - [Recursion](https://github.com/GothamsJoker/DataStructures/tree/master/src/com/DataStructuresAndAlgorithimsBook/Chapter06Recursion)
+
+<hr>
+
+## A good collection chart:
+
+<p> 
+<img src="https://github.com/GothamsJoker/DataStructures/blob/master/images/1200px-Java.util.Collection_hierarchy.svg.png">
+</p>
 
 <hr>
 
