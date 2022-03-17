@@ -98,7 +98,7 @@ public class DoubleLinkedList {
         }
         return current;
     }
-
+    // Display from first to last
     public void displayForward(){
         System.out.print("\nList: First---> Last: ");
         DoubleLink current = first;
@@ -108,6 +108,7 @@ public class DoubleLinkedList {
         }
         System.out.print("");
     }
+    // Display from last to first
     public void displayBackward(){
         System.out.print("\nList Last ---> First: ");
         DoubleLink current = last;
