@@ -22,6 +22,8 @@ public class anagram {
         count = 0;
         for(int j = 0; j < size; j++){
             arrChar[j] = input.charAt(j);
+            count++;
+            System.out.println(count);
         }
         doAnagram(size);
     }
