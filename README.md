@@ -19,6 +19,7 @@ If others know of any other great reads on data structures and algorithms please
 - [Queues](https://github.com/GothamsJoker/DataStructures/tree/master/src/com/DataStructuresAndAlgorithimsBook/Chapter04Queues)
 - [LinkedList](https://github.com/GothamsJoker/DataStructures/tree/master/src/com/DataStructuresAndAlgorithimsBook/Chapter05LinkedList)
 - [Recursion](https://github.com/GothamsJoker/DataStructures/tree/master/src/com/DataStructuresAndAlgorithimsBook/Chapter06Recursion)
+- [Binary Trees](https://github.com/GothamsJoker/DataStructures/tree/master/src/com/DataStructuresAndAlgorithimsBook/Chapter08BinaryTrees)
 
 <hr>
 
